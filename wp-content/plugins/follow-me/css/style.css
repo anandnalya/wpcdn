@@ -1,0 +1,127 @@
+#FollowMeBubble{
+width:331px !important;
+position:absolute !important;
+left: 38% !important;
+top:200px !important;
+z-index:10000 !important;
+border-bottom:none !important;
+}
+
+a#close {border-bottom:none;}
+
+#FollowMeBubble #bubblewrap{
+width:331px !important;	
+}
+
+
+#FollowMeBubble #stretch{
+margin-bottom:10px;
+margin-top:10px;
+
+}
+
+#FollowMeBubble span{
+float:left !important;
+margin-left:34px !important;
+margin-top:4px;
+padding-top:1px !important;
+text-transform:capitalize !important;
+clear:both;
+}
+
+#FollowMeBubble span a{
+-x-system-font:none !important;
+color:#A19FA0 !important;
+display:inline !important;
+font-family:'Lucida Grande',Verdana,Arial,Sans-Serif !important;
+font-size:15pt !important;
+font-size-adjust:none !important;
+font-stretch:normal !important;
+font-style:normal !important;
+font-variant:normal !important;
+font-weight:normal !important;
+line-height:normal !important;
+text-decoration:none !important;
+border:none;
+}
+
+#FollowMeBubble span a img{
+border:medium none !important;
+padding-right:2px !important;
+vertical-align:middle !important;
+border:none;
+}
+
+#FollowMeBubbleBG{
+background-color:#000000 !important;
+filter:alpha(opacity=60) !important;
+opacity:0.6 !important;
+width:100% !important;
+height:100% !important;
+position:fixed !important;
+left:0px !important;
+top:0px !important;
+z-index:9000 !important;
+margin: 0px !important;
+border-bottom:none;
+}
+
+#FollowMeBubble #grab{
+display:block !important;
+font-size:150% !important;
+height:39px !important;
+left:190px !important;
+margin-top:10px !important;
+position:relative !important;
+width:130px !important;
+}
+
+#FollowMeBubble #grab span{
+visibility:hidden !important;
+}
+
+#FollowMeBubble a#grab:hover{
+text-decoration:none !important;
+}
+
+#FollowMeBubble #close{
+width:40px !important;
+height:39px !important;
+position:absolute !important;
+left: 50% !important;
+top:-10px !important;
+z-index:20000 !important;	
+margin-left: 135px !important;
+}
+
+#FollowMeTabLeftSm{
+position:fixed !important;
+left: 0px !important;
+top:50% !important;
+margin-top: -61px !important;
+z-index:20000 !important;
+}
+
+#FollowMeTabLeftLg{
+position:fixed !important;
+left: 0px !important;
+top:50% !important;
+margin-top: -121px !important;
+z-index:20000 !important;
+}
+
+#FollowMeTabRightSm{
+position:fixed !important;
+right: 0px !important;
+top:50% !important;
+margin-top: -61px !important;
+z-index:20000 !important;
+}
+
+#FollowMeTabRightLg{
+position:fixed !important;
+right: 0px !important;
+top:50% !important;
+margin-top: -121px !important;
+z-index:20000 !important;
+}

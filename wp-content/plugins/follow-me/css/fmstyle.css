@@ -1,0 +1,151 @@
+#FMContentBox table tr td ul li a{
+font: 1em 'Lucida Grande', Verdana, Arial, Sans-Serif;
+color: #06c;
+text-decoration: none;
+}
+
+#sidebar #FMContentBox ul li{
+list-style-position: outside;
+list-style-type: none;
+}
+
+#FMContentBox table tr td ul li, #sidebar #FMContentBox table tr td ul li{
+text-transform: capitalize;
+padding-top: 1px;	
+list-style-position: outside;
+list-style-type: none;
+list-style: none;
+}
+
+#sidebar #FMContentBox li{
+list-style-type: none;
+}
+
+#FMWIDGETBox a{
+font: 1em 'Lucida Grande', Verdana, Arial, Sans-Serif;
+color: #06c;
+text-decoration: none;
+}
+
+#sidebar #FMWIDGETBox ul{
+list-style-position: outside;
+list-style-type: none;
+}
+
+
+
+#FMWIDGETBox {
+background color:#ffffff;
+visibility: hidden; 
+border: 1px solid #BDBDBD; 
+padding: 0px;
+list-style-type: none;
+text-transform: capitalize;
+}
+
+
+
+
+.entry ul li:before, #sidebar ul #FMWIDGETBox ul li:before
+{
+content:counter(fm, none);
+list-style-position: outside;
+list-style-type: none;
+}
+
+
+
+#FMContentBox table tr td ul li:before
+{
+content:counter(fm, none);
+list-style-position: outside;
+list-style-type: none;
+}
+
+
+#FMWIDGETBox ul li:before
+{
+content:counter(fm, none);
+list-style-position: outside;
+list-style-type: none;
+}
+
+
+#FMWIDGETBox table tr td
+{
+padding: 4px;
+}
+
+#FMWIDGETBox table tr td ul li
+{
+text-transform: capitalize;
+padding-top: 1px;	
+list-style-position: outside;
+list-style-type: none;
+	}
+
+#FMWIDGETBox table tr td ul li img
+{	
+vertical-align:middle;
+padding-right: 2px;
+}
+	
+
+
+
+
+
+##FMContentBox a{
+font: 1em 'Lucida Grande', Verdana, Arial, Sans-Serif;
+color: #06c;
+text-decoration: none;
+}
+
+#sidebar #FMContentBox ul{
+list-style-position: outside;
+list-style-type: none;
+}
+
+
+
+#FMContentBox {
+background color:#ffffff; 
+visibility: hidden; 
+border: 1px solid #BDBDBD; 
+padding: 0px;
+list-style-type: none;
+}
+
+.entry ul li:before, #sidebar ul #FMContentBox ul li:before
+{
+content:counter(fm, none);
+list-style-position: outside;
+list-style-type: none;
+}
+
+#FMContentBox ul li:before
+{
+content:counter(fm, none);
+list-style-position: outside;
+list-style-type: none;
+}
+
+
+#FMContentBox table tr td
+{
+padding: 4px;
+}
+
+#FMContentBox table tr td ul li
+{
+padding-top: 1px;	
+list-style-position: outside;
+list-style-type: none;
+	}
+
+#FMContentBox table tr td ul li img
+{	
+vertical-align:middle;
+padding-right: 2px;
+}
+	

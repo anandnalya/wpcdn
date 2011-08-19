@@ -1,0 +1,70 @@
+/*
+Theme Name: Brunelleschi
+*/
+/*
+Used to style the TinyMCE editor.
+*/
+body { font-size: 87.5%; line-height:1.6em; }
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+	 font-family: Baskerville, Georgia, 'Times New Roman', Times, serif;
+}
+input[type=submit] {
+    font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", sans-serif;
+
+}
+code {
+    font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+    background: #f0f0f0;
+}
+
+html .mceContentBody{
+	direction:rtl;
+	unicode-bidi:embed;
+	float:right;
+}
+* {
+	font-family: Arial, Tahoma, sans-serif;
+}
+/* Text elements */
+ul {
+	margin: 0 -18px 18px 0;
+}
+ol {
+	margin: 0 -18px 18px 0;
+}
+dd {
+	margin-right: 0;
+}
+blockquote {
+	font-style: normal;
+}
+table {
+	text-align: right;
+	margin: 0 0 24px -1px;
+}
+html .mceContentBody{
+	direction:rtl;
+	unicode-bidi:embed;
+	float:right;
+}
+* {
+	font-family: Arial, Tahoma, sans-serif;
+}
+/* Text elements */
+ul {
+	margin: 0 -18px 18px 0;
+}
+ol {
+	margin: 0 -18px 18px 0;
+}
+dd {
+	margin-right: 0;
+}
+blockquote {
+	font-style: normal;
+}
+table {
+	text-align: right;
+	margin: 0 0 24px -1px;
+}
